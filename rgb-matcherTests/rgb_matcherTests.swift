@@ -1,14 +1,14 @@
 //
-//  rbg_matcherTests.swift
-//  rbg-matcherTests
+//  rgb_matcherTests.swift
+//  rgb-matcherTests
 //
 //  Created by Ueta, Lucas T on 10/25/23.
 //
 
 import XCTest
-@testable import rbg_matcher
+@testable import rgb_matcher
 
-final class rbg_matcherTests: XCTestCase {
+final class rgb_matcherTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

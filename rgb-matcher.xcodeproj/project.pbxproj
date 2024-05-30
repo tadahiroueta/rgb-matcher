@@ -13,9 +13,9 @@
 		5F1FC7BF2AE954EE00074B1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F1FC7BD2AE954EE00074B1E /* Main.storyboard */; };
 		5F1FC7C12AE954F000074B1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F1FC7C02AE954F000074B1E /* Assets.xcassets */; };
 		5F1FC7C42AE954F000074B1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F1FC7C22AE954F000074B1E /* LaunchScreen.storyboard */; };
-		5F1FC7CF2AE954F000074B1E /* rbg_matcherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1FC7CE2AE954F000074B1E /* rbg_matcherTests.swift */; };
-		5F1FC7D92AE954F000074B1E /* rbg_matcherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1FC7D82AE954F000074B1E /* rbg_matcherUITests.swift */; };
-		5F1FC7DB2AE954F000074B1E /* rbg_matcherUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1FC7DA2AE954F000074B1E /* rbg_matcherUITestsLaunchTests.swift */; };
+		5F1FC7CF2AE954F000074B1E /* rgb_matcherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1FC7CE2AE954F000074B1E /* rgb_matcherTests.swift */; };
+		5F1FC7D92AE954F000074B1E /* rgb_matcherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1FC7D82AE954F000074B1E /* rgb_matcherUITests.swift */; };
+		5F1FC7DB2AE954F000074B1E /* rgb_matcherUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1FC7DA2AE954F000074B1E /* rgb_matcherUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -24,19 +24,19 @@
 			containerPortal = 5F1FC7AC2AE954EE00074B1E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 5F1FC7B32AE954EE00074B1E;
-			remoteInfo = "rbg-matcher";
+			remoteInfo = "rgb-matcher";
 		};
 		5F1FC7D52AE954F000074B1E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 5F1FC7AC2AE954EE00074B1E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 5F1FC7B32AE954EE00074B1E;
-			remoteInfo = "rbg-matcher";
+			remoteInfo = "rgb-matcher";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5F1FC7B42AE954EE00074B1E /* rbg-matcher.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "rbg-matcher.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F1FC7B42AE954EE00074B1E /* rgb-matcher.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "rgb-matcher.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F1FC7B72AE954EE00074B1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5F1FC7B92AE954EE00074B1E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		5F1FC7BB2AE954EE00074B1E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -44,11 +44,11 @@
 		5F1FC7C02AE954F000074B1E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5F1FC7C32AE954F000074B1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5F1FC7C52AE954F000074B1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5F1FC7CA2AE954F000074B1E /* rbg-matcherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "rbg-matcherTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5F1FC7CE2AE954F000074B1E /* rbg_matcherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rbg_matcherTests.swift; sourceTree = "<group>"; };
-		5F1FC7D42AE954F000074B1E /* rbg-matcherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "rbg-matcherUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5F1FC7D82AE954F000074B1E /* rbg_matcherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rbg_matcherUITests.swift; sourceTree = "<group>"; };
-		5F1FC7DA2AE954F000074B1E /* rbg_matcherUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rbg_matcherUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5F1FC7CA2AE954F000074B1E /* rgb-matcherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "rgb-matcherTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F1FC7CE2AE954F000074B1E /* rgb_matcherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rgb_matcherTests.swift; sourceTree = "<group>"; };
+		5F1FC7D42AE954F000074B1E /* rgb-matcherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "rgb-matcherUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F1FC7D82AE954F000074B1E /* rgb_matcherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rgb_matcherUITests.swift; sourceTree = "<group>"; };
+		5F1FC7DA2AE954F000074B1E /* rgb_matcherUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rgb_matcherUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,9 +79,9 @@
 		5F1FC7AB2AE954EE00074B1E = {
 			isa = PBXGroup;
 			children = (
-				5F1FC7B62AE954EE00074B1E /* rbg-matcher */,
-				5F1FC7CD2AE954F000074B1E /* rbg-matcherTests */,
-				5F1FC7D72AE954F000074B1E /* rbg-matcherUITests */,
+				5F1FC7B62AE954EE00074B1E /* rgb-matcher */,
+				5F1FC7CD2AE954F000074B1E /* rgb-matcherTests */,
+				5F1FC7D72AE954F000074B1E /* rgb-matcherUITests */,
 				5F1FC7B52AE954EE00074B1E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -89,14 +89,14 @@
 		5F1FC7B52AE954EE00074B1E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5F1FC7B42AE954EE00074B1E /* rbg-matcher.app */,
-				5F1FC7CA2AE954F000074B1E /* rbg-matcherTests.xctest */,
-				5F1FC7D42AE954F000074B1E /* rbg-matcherUITests.xctest */,
+				5F1FC7B42AE954EE00074B1E /* rgb-matcher.app */,
+				5F1FC7CA2AE954F000074B1E /* rgb-matcherTests.xctest */,
+				5F1FC7D42AE954F000074B1E /* rgb-matcherUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5F1FC7B62AE954EE00074B1E /* rbg-matcher */ = {
+		5F1FC7B62AE954EE00074B1E /* rgb-matcher */ = {
 			isa = PBXGroup;
 			children = (
 				5F1FC7B72AE954EE00074B1E /* AppDelegate.swift */,
@@ -107,32 +107,32 @@
 				5F1FC7C22AE954F000074B1E /* LaunchScreen.storyboard */,
 				5F1FC7C52AE954F000074B1E /* Info.plist */,
 			);
-			path = "rbg-matcher";
+			path = "rgb-matcher";
 			sourceTree = "<group>";
 		};
-		5F1FC7CD2AE954F000074B1E /* rbg-matcherTests */ = {
+		5F1FC7CD2AE954F000074B1E /* rgb-matcherTests */ = {
 			isa = PBXGroup;
 			children = (
-				5F1FC7CE2AE954F000074B1E /* rbg_matcherTests.swift */,
+				5F1FC7CE2AE954F000074B1E /* rgb_matcherTests.swift */,
 			);
-			path = "rbg-matcherTests";
+			path = "rgb-matcherTests";
 			sourceTree = "<group>";
 		};
-		5F1FC7D72AE954F000074B1E /* rbg-matcherUITests */ = {
+		5F1FC7D72AE954F000074B1E /* rgb-matcherUITests */ = {
 			isa = PBXGroup;
 			children = (
-				5F1FC7D82AE954F000074B1E /* rbg_matcherUITests.swift */,
-				5F1FC7DA2AE954F000074B1E /* rbg_matcherUITestsLaunchTests.swift */,
+				5F1FC7D82AE954F000074B1E /* rgb_matcherUITests.swift */,
+				5F1FC7DA2AE954F000074B1E /* rgb_matcherUITestsLaunchTests.swift */,
 			);
-			path = "rbg-matcherUITests";
+			path = "rgb-matcherUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5F1FC7B32AE954EE00074B1E /* rbg-matcher */ = {
+		5F1FC7B32AE954EE00074B1E /* rgb-matcher */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5F1FC7DE2AE954F000074B1E /* Build configuration list for PBXNativeTarget "rbg-matcher" */;
+			buildConfigurationList = 5F1FC7DE2AE954F000074B1E /* Build configuration list for PBXNativeTarget "rgb-matcher" */;
 			buildPhases = (
 				5F1FC7B02AE954EE00074B1E /* Sources */,
 				5F1FC7B12AE954EE00074B1E /* Frameworks */,
@@ -142,14 +142,14 @@
 			);
 			dependencies = (
 			);
-			name = "rbg-matcher";
-			productName = "rbg-matcher";
-			productReference = 5F1FC7B42AE954EE00074B1E /* rbg-matcher.app */;
+			name = "rgb-matcher";
+			productName = "rgb-matcher";
+			productReference = 5F1FC7B42AE954EE00074B1E /* rgb-matcher.app */;
 			productType = "com.apple.product-type.application";
 		};
-		5F1FC7C92AE954F000074B1E /* rbg-matcherTests */ = {
+		5F1FC7C92AE954F000074B1E /* rgb-matcherTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5F1FC7E12AE954F000074B1E /* Build configuration list for PBXNativeTarget "rbg-matcherTests" */;
+			buildConfigurationList = 5F1FC7E12AE954F000074B1E /* Build configuration list for PBXNativeTarget "rgb-matcherTests" */;
 			buildPhases = (
 				5F1FC7C62AE954F000074B1E /* Sources */,
 				5F1FC7C72AE954F000074B1E /* Frameworks */,
@@ -160,14 +160,14 @@
 			dependencies = (
 				5F1FC7CC2AE954F000074B1E /* PBXTargetDependency */,
 			);
-			name = "rbg-matcherTests";
-			productName = "rbg-matcherTests";
-			productReference = 5F1FC7CA2AE954F000074B1E /* rbg-matcherTests.xctest */;
+			name = "rgb-matcherTests";
+			productName = "rgb-matcherTests";
+			productReference = 5F1FC7CA2AE954F000074B1E /* rgb-matcherTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		5F1FC7D32AE954F000074B1E /* rbg-matcherUITests */ = {
+		5F1FC7D32AE954F000074B1E /* rgb-matcherUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5F1FC7E42AE954F000074B1E /* Build configuration list for PBXNativeTarget "rbg-matcherUITests" */;
+			buildConfigurationList = 5F1FC7E42AE954F000074B1E /* Build configuration list for PBXNativeTarget "rgb-matcherUITests" */;
 			buildPhases = (
 				5F1FC7D02AE954F000074B1E /* Sources */,
 				5F1FC7D12AE954F000074B1E /* Frameworks */,
@@ -178,9 +178,9 @@
 			dependencies = (
 				5F1FC7D62AE954F000074B1E /* PBXTargetDependency */,
 			);
-			name = "rbg-matcherUITests";
-			productName = "rbg-matcherUITests";
-			productReference = 5F1FC7D42AE954F000074B1E /* rbg-matcherUITests.xctest */;
+			name = "rgb-matcherUITests";
+			productName = "rgb-matcherUITests";
+			productReference = 5F1FC7D42AE954F000074B1E /* rgb-matcherUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -206,7 +206,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5F1FC7AF2AE954EE00074B1E /* Build configuration list for PBXProject "rbg-matcher" */;
+			buildConfigurationList = 5F1FC7AF2AE954EE00074B1E /* Build configuration list for PBXProject "rgb-matcher" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -219,9 +219,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5F1FC7B32AE954EE00074B1E /* rbg-matcher */,
-				5F1FC7C92AE954F000074B1E /* rbg-matcherTests */,
-				5F1FC7D32AE954F000074B1E /* rbg-matcherUITests */,
+				5F1FC7B32AE954EE00074B1E /* rgb-matcher */,
+				5F1FC7C92AE954F000074B1E /* rgb-matcherTests */,
+				5F1FC7D32AE954F000074B1E /* rgb-matcherUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -268,7 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5F1FC7CF2AE954F000074B1E /* rbg_matcherTests.swift in Sources */,
+				5F1FC7CF2AE954F000074B1E /* rgb_matcherTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,8 +276,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5F1FC7D92AE954F000074B1E /* rbg_matcherUITests.swift in Sources */,
-				5F1FC7DB2AE954F000074B1E /* rbg_matcherUITestsLaunchTests.swift in Sources */,
+				5F1FC7D92AE954F000074B1E /* rgb_matcherUITests.swift in Sources */,
+				5F1FC7DB2AE954F000074B1E /* rgb_matcherUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,12 +286,12 @@
 /* Begin PBXTargetDependency section */
 		5F1FC7CC2AE954F000074B1E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5F1FC7B32AE954EE00074B1E /* rbg-matcher */;
+			target = 5F1FC7B32AE954EE00074B1E /* rgb-matcher */;
 			targetProxy = 5F1FC7CB2AE954F000074B1E /* PBXContainerItemProxy */;
 		};
 		5F1FC7D62AE954F000074B1E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5F1FC7B32AE954EE00074B1E /* rbg-matcher */;
+			target = 5F1FC7B32AE954EE00074B1E /* rgb-matcher */;
 			targetProxy = 5F1FC7D52AE954F000074B1E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -438,7 +438,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "rbg-matcher/Info.plist";
+				INFOPLIST_FILE = "rgb-matcher/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -449,7 +449,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "tadahiroueta.rbg-matcher";
+				PRODUCT_BUNDLE_IDENTIFIER = "tadahiroueta.rgb-matcher";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -465,7 +465,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "rbg-matcher/Info.plist";
+				INFOPLIST_FILE = "rgb-matcher/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -476,7 +476,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "tadahiroueta.rbg-matcher";
+				PRODUCT_BUNDLE_IDENTIFIER = "tadahiroueta.rgb-matcher";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -494,12 +494,12 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "tadahiroueta.rbg-matcherTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "tadahiroueta.rgb-matcherTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rbg-matcher.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/rbg-matcher";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rgb-matcher.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/rgb-matcher";
 			};
 			name = Debug;
 		};
@@ -513,12 +513,12 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "tadahiroueta.rbg-matcherTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "tadahiroueta.rgb-matcherTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rbg-matcher.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/rbg-matcher";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rgb-matcher.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/rgb-matcher";
 			};
 			name = Release;
 		};
@@ -530,12 +530,12 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "tadahiroueta.rbg-matcherUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "tadahiroueta.rgb-matcherUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "rbg-matcher";
+				TEST_TARGET_NAME = "rgb-matcher";
 			};
 			name = Debug;
 		};
@@ -547,19 +547,19 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "tadahiroueta.rbg-matcherUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "tadahiroueta.rgb-matcherUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "rbg-matcher";
+				TEST_TARGET_NAME = "rgb-matcher";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5F1FC7AF2AE954EE00074B1E /* Build configuration list for PBXProject "rbg-matcher" */ = {
+		5F1FC7AF2AE954EE00074B1E /* Build configuration list for PBXProject "rgb-matcher" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5F1FC7DC2AE954F000074B1E /* Debug */,
@@ -568,7 +568,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5F1FC7DE2AE954F000074B1E /* Build configuration list for PBXNativeTarget "rbg-matcher" */ = {
+		5F1FC7DE2AE954F000074B1E /* Build configuration list for PBXNativeTarget "rgb-matcher" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5F1FC7DF2AE954F000074B1E /* Debug */,
@@ -577,7 +577,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5F1FC7E12AE954F000074B1E /* Build configuration list for PBXNativeTarget "rbg-matcherTests" */ = {
+		5F1FC7E12AE954F000074B1E /* Build configuration list for PBXNativeTarget "rgb-matcherTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5F1FC7E22AE954F000074B1E /* Debug */,
@@ -586,7 +586,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5F1FC7E42AE954F000074B1E /* Build configuration list for PBXNativeTarget "rbg-matcherUITests" */ = {
+		5F1FC7E42AE954F000074B1E /* Build configuration list for PBXNativeTarget "rgb-matcherUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5F1FC7E52AE954F000074B1E /* Debug */,

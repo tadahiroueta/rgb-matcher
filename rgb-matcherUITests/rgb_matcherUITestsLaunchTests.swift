@@ -1,13 +1,13 @@
 //
-//  rbg_matcherUITestsLaunchTests.swift
-//  rbg-matcherUITests
+//  rgb_matcherUITestsLaunchTests.swift
+//  rgb-matcherUITests
 //
 //  Created by Ueta, Lucas T on 10/25/23.
 //
 
 import XCTest
 
-final class rbg_matcherUITestsLaunchTests: XCTestCase {
+final class rgb_matcherUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

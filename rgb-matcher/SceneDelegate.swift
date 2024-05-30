@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  rbg-matcher
+//  rgb-matcher
 //
 //  Created by Ueta, Lucas T on 10/25/23.
 //
