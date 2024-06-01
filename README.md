@@ -15,9 +15,7 @@
 ### Colour algorithm
 The player is prompted with a random colour (RGB value) and is tasked to adjust the sliders to recreate the colour. The lower the mean distance between the RGB values, the higher the score.
 
-<br>
 <img src="https://github.com/tadahiroueta/rgb-matcher/blob/main/samples/upright.gif" alt="upright" width="248rem" />
-<br>
 
 ### High Score retention
 The player's high score is stored locally and will be accessible whenever the user plays again.
