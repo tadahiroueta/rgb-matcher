@@ -17,6 +17,8 @@ The player is prompted with a random colour (RGB value) and is tasked to adjust 
 
 <img src="https://github.com/tadahiroueta/rgb-matcher/blob/main/samples/upright.gif" alt="upright" width="248rem" />
 
+> Made entirely programatically
+
 ### High Score retention
 The player's high score is stored locally and will be accessible whenever the user plays again.
 
