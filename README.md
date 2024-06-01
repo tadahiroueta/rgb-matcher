@@ -25,6 +25,11 @@ Constraints are set to dynamically update when the iPhone is turned to its side 
 
 ![sideways](https://github.com/tadahiroueta/rgb-matcher/blob/main/samples/sideways.gif)
 
+### Figma prototype
+The app was first planned on [Figma](https://www.figma.com/design/F8Sw9hue24SfOALI4S9ZAw/rbg-matcher?node-id=5-148&t=AvIXuaNoBwBrb7Cn-1)
+
+![figma](https://github.com/tadahiroueta/rgb-matcher/blob/main/samples/figma.png)
+
 ## Installation
 
 1. Install [Xcode](https://developer.apple.com/xcode/)
