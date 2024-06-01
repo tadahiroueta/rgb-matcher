@@ -40,4 +40,7 @@ The app was first planned on [Figma](https://www.figma.com/design/F8Sw9hue24SfOA
     - Enter ```https://github.com/tadahiroueta/rgb-matcher.git```
 
 ## Usage
+
 1. Run the iOS simulator by clicking the ```▶``` button
+
+2. Adjust the sliders to change the colour of the top circle, and try to get the closest to the bottom circle before the timer runs out. 
